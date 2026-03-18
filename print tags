@@ -1,6 +1,0 @@
-print ('las cantidad de enlaces son :',len(tags))
-
-print('\n')
-for tag in tags:
-    print('URL:',tag.get('href'))
-    print('\n')
