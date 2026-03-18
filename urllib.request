@@ -1,5 +1,0 @@
-import urllib.request
-f = urllib.request.urlopen('https://ssnanonymus.se.qlikcloud.com/sense/app/aad2fecd-c702-4cb0-8cd6-a570243b4a4f/sheet/rjkqGs/state/analysis')
-
-for line in f :
-        print(line.decode().strip())
