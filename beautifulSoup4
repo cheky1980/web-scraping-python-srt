@@ -1,3 +1,0 @@
-# instalación de la libreria
-import sys
-!{sys.executable} -m pip install beautifulSoup4
